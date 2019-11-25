@@ -1,2 +1,2 @@
-# hello-world
-Training on GitHub use
+This is just about me
+For the purposes of understanding GitHub
